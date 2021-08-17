@@ -4,4 +4,4 @@
 
 ### Sobre o projeto
 
-Chess System nada mais é que a reprodução de um dos jogos de tabuleiros mais clássicos o jogo de xadrez. Ele foi desenvolvido na sua totalidade utilizando Java. 
+Chess System nada mais é que a reprodução de um dos jogos de tabuleiros mais clássicos o jogo de xadrez. Ele foi desenvolvido ao decorrer do curso de Java ministrado pelo Professor Nélio Alves. 
