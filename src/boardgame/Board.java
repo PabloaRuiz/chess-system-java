@@ -8,7 +8,7 @@ public class Board {
 	
 	
 	public Board(int rows, int columns) {
-		if (rows <1 || columns <1) {
+		if (rows < 1 || columns < 1) {
 			throw new BoardExcepetion("Error creating board: There must be at least 1 row and 1 column");
 		} 
 		
@@ -50,7 +50,7 @@ public class Board {
 	}
 	
 	private boolean positionExists(int row, int column) {
-		return row >= 0 && row < rows && column >=0 && column < columns;
+		return row >= 0 && row < rows && column >= 0 && column < columns;
 	}
 	
 	private boolean positionExists(Position position) {
