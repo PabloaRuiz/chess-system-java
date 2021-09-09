@@ -12,6 +12,12 @@ public class king extends ChessPiece{
 	
 	@Override 
 	public String toString() {
-		return"K";
+		return"K"; 
+	}
+
+	@Override
+	public boolean[][] possibleMoves() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }
